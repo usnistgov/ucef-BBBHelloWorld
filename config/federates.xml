@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<script>
+    <expect federateType="HVAC" />
+    <expect federateType="Thermostat" />
+    <expect federateType="TemperatureSensor" />
+</script>
